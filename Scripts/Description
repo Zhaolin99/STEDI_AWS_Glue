@@ -1,7 +1,13 @@
 
-### Landing Zone to Trusted
-
+Landing Zone to Trusted
 Glue jobs have a node that connects to S3 bucket for customer, accelerometer, and step trainer landing zones.
+Inlcude: 
 customer_landing_to_trusted.py
 accelerometer_landing_to_trusted.py
-step_trainer_trusted.py
+step_trainer_to_trusted.py
+
+
+Trusted Zone to Curated
+Include: 
+customer_trusted_to_curated.py
+machine_learning_curated.py
