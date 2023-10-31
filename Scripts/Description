@@ -1,0 +1,7 @@
+
+### Landing Zone to Trusted
+
+Glue jobs have a node that connects to S3 bucket for customer, accelerometer, and step trainer landing zones.
+customer_landing_to_trusted.py
+accelerometer_landing_to_trusted.py
+step_trainer_trusted.py
