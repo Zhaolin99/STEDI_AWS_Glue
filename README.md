@@ -17,3 +17,6 @@ The Python code for Glue jobs has been executed and stored in the 'Scripts' fold
 * Addressing a serial number bug in Customer Data, a Glue job will sanitize data in the Trusted Zone, creating a Glue Table in the Curated Zone named customers_curated.
 
 * Two Glue Studio jobs read Step Trainer IoT data and create an aggregated table with associated accelerometer readings, storing them in the Trusted Zone Glue Table step_trainer_trusted and machine_learning_curated, respectively.
+
+
+![Alt text](flowchar.jpg)
