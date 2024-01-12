@@ -18,5 +18,4 @@ The Python code for Glue jobs has been executed and stored in the 'Scripts' fold
 
 * Two Glue Studio jobs read Step Trainer IoT data and create an aggregated table with associated accelerometer readings, storing them in the Trusted Zone Glue Table step_trainer_trusted and machine_learning_curated, respectively.
 
-
-![Alt text](flowchar.jpg)
+![Alt text](flowchart.jpg)
